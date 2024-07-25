@@ -1,21 +1,4 @@
-Final project &ndash; A personal blogging system &ndash; Starter project
-==========
-This repository contains a starting point for your team's final project.
-
-Your team should update this README to include the information required, as presented in the project handout available on Canvas.
-
-
----
-# Group 5 Blog Website
-
-## Team Name: Group 5
-
-## Members
-- Jiawei He
-- Qizheng Hu
-- Xuan Luo
-- Yutian Sun
-- Melissa Wang
+A personal blogging system
 
 ### Setup Instructions
 1. Clone the repository to your local machine.
