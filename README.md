@@ -1,12 +1,12 @@
-A personal blogging system
+# A personal blogging system
 
-### Setup Instructions
+## Setup Instructions
 1. Clone the repository to your local machine.
 2. Open the `project-database.db` file using a database management system. Execute the `project-database-init-script.sql` script to set up the necessary tables and initial data in the database.
 3. Install the necessary dependencies by running `npm install`.
 4. Run the project using the command `npm start` or `node .\app.js`.
 
-### Existing User Credentials
+## Existing User Credentials
 
 You can use the following username and password combination to log in as an existing user with pre-existing articles and comments:
 
